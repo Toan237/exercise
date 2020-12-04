@@ -2,5 +2,5 @@
 print("ex1")
 print("Edit 1")
 print("Edit 2")
-print("HElLO CLASS OSS")
-print("HELLO")
+print("HElLO 1")
+print("HELLO 2")
