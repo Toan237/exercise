@@ -6,3 +6,4 @@ print("Edit 2")
 print("HElLO 1, i am student CTU")
 print("HELLO 2")
 
+print("ex3")
